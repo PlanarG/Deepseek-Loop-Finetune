@@ -1,0 +1,7 @@
+ConfigArgParse==1.7
+datasets==3.2.0
+torch==2.5.1
+tqdm==4.67.1
+transformers==4.47.1
+deepspeed
+accelerate
