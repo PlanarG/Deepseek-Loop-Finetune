@@ -1,0 +1,6 @@
+model_name: Qwen/Qwen2.5-1.5B
+batch_size: 1
+logging_steps: 1
+save_steps: 3
+max_data_length: 128
+learning_rate: 5e-6
